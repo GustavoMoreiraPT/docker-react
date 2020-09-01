@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Max Verstappen and Sebastian Vettel and Nico Hulkenberg.
+          Ferrari F1 bad performance.
         </p>
         <a
           className="App-link" 
